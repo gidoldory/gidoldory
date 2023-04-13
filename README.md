@@ -35,8 +35,7 @@
 -->
 
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=gidoldory&show_icons=true&theme=radical)
-
+[![Gidoldory's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gidoldory&theme=cobalt&show_icons=true)]()
 
 
 <!--
