@@ -23,6 +23,18 @@
 <br/>
 <br/>
 
+
+[![Gidoldory's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gidoldory&theme=cobalt&show_icons=true)]()
+<br/>
+<br/>
+
+
+<div align="right">
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgidoldory&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+</div>
+
 <!-- 
 ### 📌 **<span style="color:navy">Project</span>**
 <hr/>
@@ -32,13 +44,7 @@
 |[<u>에코그린서울</u>](https://github.com/codestates-seb/seb41_main_027, "Main Project")|서울 및 인근 지역의 친환경 장소를 공유하는 서비스|
 <br/>
 <br/>
--->
 
-
-[![Gidoldory's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gidoldory&theme=cobalt&show_icons=true)]()
-
-
-<!--
 **gidoldory/gidoldory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
